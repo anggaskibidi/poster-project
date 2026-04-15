@@ -12,6 +12,7 @@ Ini adalah kumpulan hasil desain poster yang saya buat.
 - Blender
 - Mine-imator
 - Photopea
+- Blockbench
 
 ## 📷 Preview
 ![poster](poster.png)
