@@ -15,4 +15,4 @@ Ini adalah kumpulan hasil desain poster yang saya buat.
 - Blockbench
 
 ## 📷 Preview
-![poster](NewProject221.png)
+![poster](Poster2.png)
